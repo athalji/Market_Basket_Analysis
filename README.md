@@ -1,4 +1,4 @@
-# Market_Basket_Analysis
+# Market Basket Analysis
 This project performs market basket analysis for a sales dataset from an international coffee house chain. The dataset was constructed by collecting receipts over a period of two weeks from two locations, and then tabulating the data in the dataset. The dataset has the following columns:
 1) time Stamp: Date and time when the purchase was made
 2) Day of week
